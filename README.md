@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Ananya Thomas 👋</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyathomas" alt="Ananya" /> </p>
 
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="290px">
