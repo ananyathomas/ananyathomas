@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="290px">
 
 - 🔭 I’m currently working on - Frontend Development
-- 🌱 I’m currently learning - Python, JavaScript
+- 🌱 I’m currently learning - Python, R
 - 📫 How to reach me - ananyathomas10@gmail.com
 - 😄 Pronouns - She/Her
 
