@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Ananya Thomas 👋</h1>
 
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="250px">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200px">
 
 - 🔭 I’m currently working on - Natural Language Processing, Data Analysis
 - 🌱 I’m currently learning - MongoDB
