@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there, I'm Ananya Thomas 👋</h1>
 
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200px">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="180px">
 
-- 🔭 I’m currently working on - Natural Language Processing, Data Analysis
-- 🌱 I’m currently learning - MongoDB
+- 🔭 I’m currently working on - ML, Data Analysis
+- 🌱 I’m currently learning - MongoDB, Natural Language Processing
 - 📫 How to reach me - ananyathomas10@gmail.com
 - 😄 Pronouns - She/Her
 
