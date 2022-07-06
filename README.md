@@ -3,7 +3,7 @@
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200px" height="300px">
 
-- 🔭 I’m currently working on - Natural Language Processing, Data Analysis
+- 🔭 I’m currently working on - Keras, Data Analysis
 - 🌱 I’m currently learning - MongoDB, OpenCV, TensorFlow
 - 📫 How to reach me - ananyathomas10@gmail.com
 - 😄 Pronouns - She/Her
