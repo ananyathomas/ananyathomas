@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning - MongoDB, OpenCV, TensorFlow
 - 📫 How to reach me - ananyathomas10@gmail.com
 - 😄 Pronouns - She/Her
+- P.S Pinterest has my whole heart ♡
 
 <br>
 
