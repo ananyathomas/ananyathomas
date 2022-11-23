@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Ananya Thomas 👋</h1>
 
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="200px" height="300px">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="300px" height="300px">
 
 - 🔭 I’m currently working on - Keras, Data Analysis
 - 🌱 I’m currently learning - Deep Learning, OpenCV, TensorFlow
