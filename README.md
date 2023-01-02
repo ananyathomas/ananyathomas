@@ -33,6 +33,8 @@
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a ><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
+<a ><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt ="javascript" width="40" height="40"/></a>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt ="java" width="40" height="40"/></a>
 
