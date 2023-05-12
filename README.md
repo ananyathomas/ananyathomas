@@ -3,8 +3,8 @@
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif" width="300px" height="300px">
 
-- 🔭 I’m currently working on - Keras, Data Analysis
-- 🌱 I’m currently learning - Deep Learning, OpenCV, TensorFlow
+- 🔭 I’m currently working on - Deep Learning, OpenCV
+- 🌱 I’m currently learning - Federated Learning
 - 📫 How to reach me - ananyathomas10@gmail.com
 - 😄 Pronouns - She/Her
 - P.S Pinterest has my whole heart ♡
